@@ -134,7 +134,7 @@ erpnext/restaurant/doctype/restaurant_table/test_restaurant_table.js
 erpnext/restaurant/doctype/restaurant_menu/test_restaurant_menu.js
 erpnext/restaurant/doctype/restaurant_order_entry/restaurant_order_entry.js
 erpnext/projects/doctype/task/tests/test_task_tree.js
-erpnext/non_profit/doctype/membership_type/test_member.js
+erpnext/non_profit/doctype/membership_type/test_membership_type.js
 erpnext/non_profit/doctype/member/test_member.js
 erpnext/non_profit/doctype/volunteer_type/test_volunteer_type.js
 erpnext/non_profit/doctype/volunteer/test_volunteer.js

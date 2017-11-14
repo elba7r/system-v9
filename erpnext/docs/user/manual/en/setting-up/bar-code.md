@@ -11,8 +11,8 @@ automatically comes up. This set of lines and numbers on the label are termed
 as bar-code.
 
 A bar-code machine scans the number from the label of an Item. To work with
-ERPNext and the bar-code mechanism, connect the bar-code machine to your
-operating hardware. Then go to ERPNext setup and activate bar-code by going to
+Revalue ERP and the bar-code mechanism, connect the bar-code machine to your
+operating hardware. Then go to Revalue ERP setup and activate bar-code by going to
 tools and clicking on 'hide / unhide features'. Under Materials, feature
 setup, check the box that says Item Barcode.
 
@@ -32,7 +32,7 @@ Place your cursor on the bar-code field and begin scanning. The bar-code will
 be updated in the field. Once the bar-code is entered, all the Item details
 will be fetched automatically by the system.
 
-For more ease, activate the POS view in ERPnext. The activation process is
+For more ease, activate the POS view in Revalue ERP. The activation process is
 same as the bar-code activation. Go to Setup and click on 'hide/unhide
 features'. Check the 'POS view' box.
 

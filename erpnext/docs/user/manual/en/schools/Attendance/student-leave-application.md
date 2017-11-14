@@ -1,6 +1,6 @@
 #Student Leave Application 
 
-ERPNext allows you to record the leave application for a student. 
+Revalue ERP allows you to record the leave application for a student. 
 
 To create a Student Leave application record, enter the Student and the date for the leave is applied and save.
 

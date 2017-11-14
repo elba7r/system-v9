@@ -43,7 +43,7 @@ Sales Order. If any Items in your table are Product Bundle (packets), then the
 ### Reservation and Warehouses
 
 If your Sales Order contains Items for which inventory is tracked (Is Stock
-Item is “Yes”) then, ERPNext will ask you for “Reservation Warehouse”. If you
+Item is “Yes”) then, Revalue ERP will ask you for “Reservation Warehouse”. If you
 have set a default Warehouse for the Item, it will automatically set this
 Warehouse here.
 
@@ -64,7 +64,7 @@ To understand taxes in detail visit [Taxes](/docs/user/manual/en/setting-up/sett
 
 **Sales Partner:** If this Sale was booked via a Sales Partner, you can update the Sales Partner’s details with commission and other info that you can aggregate.
 
-**Sales Persons:** ERPNext allows you to tag multiple Sales Persons who may have worked on this deal. You can also split the amount in targets of different Sales Persons and track how much incentives they earned on this deal.
+**Sales Persons:** Revalue ERP allows you to tag multiple Sales Persons who may have worked on this deal. You can also split the amount in targets of different Sales Persons and track how much incentives they earned on this deal.
 
 ### Recurring Sales Orders
 
@@ -80,7 +80,7 @@ Here you can fill in the details like; of how frequently you want to generate an
 
 On updating the Sales Order, a Recurring ID will be generated which will be same for all recurring orders generated from this particular Sales Order.
 
-ERPNext will automatically create new Order and mail a notification to the Email Addresses you set in the 'Notification Email Address'field.
+Revalue ERP will automatically create new Order and mail a notification to the Email Addresses you set in the 'Notification Email Address'field.
 
 <img class="screenshot" alt="Reccuring Sales Order" src="/docs/assets/img/selling/recurring-sales-order.png">
 

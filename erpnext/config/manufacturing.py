@@ -139,17 +139,17 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Bill of Materials"),
-					"youtube_id": "hDV0c1OeWLo"
+					"youtube_id": "26TiAo5BgAA"
 				},
 				{
 					"type": "help",
 					"label": _("Production Planning Tool"),
-					"youtube_id": "CzatSl4zJ2Y"
+					"youtube_id": "WGGSID4FTBU"
 				},
 				{
 					"type": "help",
 					"label": _("Production Order"),
-					"youtube_id": "ZotgLyp2YFY"
+					"youtube_id": "dMY40WOWyXI"
 				},
 			]
 		}

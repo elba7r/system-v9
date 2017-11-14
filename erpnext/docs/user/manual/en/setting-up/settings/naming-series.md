@@ -8,7 +8,7 @@ Employee etc. A Transaction is a record that has a “number”. Examples of
 transactions include Sales Invoices, Quotations etc. You make transactions
 against a number of master records.
 
-ERPNext allows you to make prefixes to your transactions, with each prefix
+Revalue ERP allows you to make prefixes to your transactions, with each prefix
 forming its own series. For example a series with prefix INV12 will have
 numbers INV120001, INV120002 and so on.
 

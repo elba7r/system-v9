@@ -1,7 +1,7 @@
 # Quality Inspection
 
-In ERPNext, you can mark your incoming or outgoing products for Quality
-Inspection. To enable ERPNext to perform this function, go to :
+In Revalue ERP, you can mark your incoming or outgoing products for Quality
+Inspection. To enable Revalue ERP to perform this function, go to :
 
 > Stock > Quality Inspection > New
 

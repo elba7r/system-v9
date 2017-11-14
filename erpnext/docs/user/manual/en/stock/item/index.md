@@ -1,8 +1,8 @@
 # Item
 
-An Item is your companys' product or a service. The term Item is applicable to things (products or services) you sell as well as raw materials or components of products yet to be produced (before they can be sold to customers). An Item can be a physical product or a service that you buy/sell from your customers/suppliers. ERPNext allows you to manage all sorts of items like raw-materials, sub-assemblies, finished goods, item variants and service items.
+An Item is your companys' product or a service. The term Item is applicable to things (products or services) you sell as well as raw materials or components of products yet to be produced (before they can be sold to customers). An Item can be a physical product or a service that you buy/sell from your customers/suppliers. Revalue ERP allows you to manage all sorts of items like raw-materials, sub-assemblies, finished goods, item variants and service items.
 
-ERPNext is optimised for itemised management of your sales and purchase. If you are in services, you can create an Item for each services that your offer. Completing the Item Master is very essential for successful implementation of ERPNext.
+Revalue ERP is optimised for itemised management of your sales and purchase. If you are in services, you can create an Item for each services that your offer. Completing the Item Master is very essential for successful implementation of Revalue ERP.
 
 ## Item Properties
 
@@ -19,16 +19,16 @@ To upload an image for your icon that will appear in all transactions, save the 
 
 ### Inventory : Warehouse and Stock Setting
 
-In ERPNext, you can select different type of Warehouses to stock your different Items. This can be selected based on Item types. It could be Fixed Asset Item, Stock Item or even Manufacturing Item.
+In Revalue ERP, you can select different type of Warehouses to stock your different Items. This can be selected based on Item types. It could be Fixed Asset Item, Stock Item or even Manufacturing Item.
 
-  * **Stock Item:** If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item.
+  * **Stock Item:** If you are maintaining stock of this Item in your Inventory, Revalue ERP will make a stock ledger entry for each transaction of this item.
   * **Default Warehouse:** This is the Warehouse that is automatically selected in your transactions.
   * **Allowance Percentage:** This is the percent by which you will be allowed to over-bill or over-deliver this Item. If not set, it will select from the Global Defaults.
   * **Valuation Method:** There are two options to maintain valuation of stock. FIFO (first in - first out) and Moving Average. To understand this topic in detail please visit “ Item Valuation, FIFO and Moving Average”.
 
 ### Serialized and Batched Inventory
 
-These numbers help to track individual units or batches of Items which you sell. It also tracks warranty and returns. In case any individual Item is recalled by the supplier the number system helps to track individual Item. The numbering system also manages expiry dates. Please note that if you sell your items in thousands, and if the items are very small like pens or erasers, you need not serialize them. In ERPNext, you will have to mention the serial number in some accounting entries. To create serial numbers you will have to manually create all the numbers in your entries. If your product is not a big consumer durable Item, if it has no warranty and has no chances of being recalled, avoid giving serial numbers.
+These numbers help to track individual units or batches of Items which you sell. It also tracks warranty and returns. In case any individual Item is recalled by the supplier the number system helps to track individual Item. The numbering system also manages expiry dates. Please note that if you sell your items in thousands, and if the items are very small like pens or erasers, you need not serialize them. In Revalue ERP, you will have to mention the serial number in some accounting entries. To create serial numbers you will have to manually create all the numbers in your entries. If your product is not a big consumer durable Item, if it has no warranty and has no chances of being recalled, avoid giving serial numbers.
 
 > Tip: While entering an item code in an items table, if the table requires inventory details, then depending on whether the entered item is batched or serialized, you can enter serial or batch numbers right away in a pop-up dialog.
 <img alt="Serial No modal" class="screenshot" src="/docs/assets/img/stock/serial_no_modal.gif"><img alt="Batch No modal" class="screenshot" src="/docs/assets/img/stock/batch_no_modal.png">

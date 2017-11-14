@@ -7,7 +7,7 @@ Payment can be made against following transactions.
   3. Sales Order (Advance Payment)
   4. Purchase Order (Advance Payment)
   
-In ERPNext, there is two options through which user can capture the payment
+In Revalue ERP, there is two options through which user can capture the payment
 
   1. Payment Entry(Default).
   2. Journal Entry.

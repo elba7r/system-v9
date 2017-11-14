@@ -1,6 +1,6 @@
 # Download Backup
 
-In the ERPNext, you can manually download database backup. To get the latest database backup, go to:
+In the Revalue ERP, you can manually download database backup. To get the latest database backup, go to:
 
 `Setup > Data > Download Backup`
 

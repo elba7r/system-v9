@@ -1,6 +1,6 @@
 #Managing Transactions In Multiple Currency
 
-In ERPNext, transactions can be created in the base currency as well as in parties (customer or supplier) currency. If transaction is created in the parties currency, their currency symbol is updated in the print format as well.
+In Revalue ERP, transactions can be created in the base currency as well as in parties (customer or supplier) currency. If transaction is created in the parties currency, their currency symbol is updated in the print format as well.
 
 Let's consider a Sales Invoice, where your base currency is of a Company is USD and party currency is EUR.
 

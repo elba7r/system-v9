@@ -4,7 +4,7 @@ Goods sold being returned is quite a common practice in business. They could
 be returned by the customer on quality issues, non-delivery on agreed date, or
 any other reason. 
 
-In ERPNext, you can create a Sales Return by simply making a Delivery Note / Sales Invoice with negative quantity.
+In Revalue ERP, you can create a Sales Return by simply making a Delivery Note / Sales Invoice with negative quantity.
 
 First open the original Delivery Note / Sales Invoice, against which customer returned the items.
 

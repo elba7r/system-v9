@@ -2,17 +2,16 @@
 
 For retail operations, the delivery of goods, accrual of sale and payment all happens in one event, that is usually called the “Point of Sale” (POS).
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/4WkelWkbP_c" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/zU8YXEc_fJo" frameborder="0" allowfullscreen></iframe>
 
 ###Offline POS
 
-In the retails business, invoicing needs to done very quickly, hence should less dependency. In the ERPNext, you can create POS Invoices, even when not connected to the internet.
+In the retails business, invoicing needs to done very quickly, hence should less dependency. In the Revalue ERP, you can create POS Invoices, even when not connected to the internet.
 
-POS Invoices created in the offline mode will be saved locally in the browser. If internet connection is lost which creating POS Invoice, you will still be able can proceed forward. Once internet connection is available again, offline invoices will be synced, and pushed onto your ERPNext account. To learn more on how POS Invoices can be created when offline, [check here.](https://frappe.io/blog/blog/erpnext-features/offline-pos-in-erpnext-7)
-
+POS Invoices created in the offline mode will be saved locally in the browser. If internet connection is lost which creating POS Invoice, you will still be able can proceed forward. Once internet connection is available again, offline invoices will be synced, and pushed onto your Revalue ERP account. To learn more on how POS Invoices can be created when offline. 
 #### POS Profile
 
-In ERPNext all Sales and Purchase transactions, like Sales Invoice, Quotation, Sales Order, Purchase Order etc. can be edited via the POS. There two steps to Setup POS:
+In Revalue ERP all Sales and Purchase transactions, like Sales Invoice, Quotation, Sales Order, Purchase Order etc. can be edited via the POS. There two steps to Setup POS:
 
 1. Enable POS View via (Setup > Customize > Feature Setup)
 2. Create a [POS Profile](/docs/user/manual/en/setting-up/pos-setting.html) record

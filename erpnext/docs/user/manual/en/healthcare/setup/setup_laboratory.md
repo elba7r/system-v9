@@ -12,7 +12,7 @@ If you wish to use features of Laboratory, you can create Users with "Laboratory
 * Enable the third option if you want the name and designation of the Employee associated with the User who submits the document to be printed in the Lab Test Report.
 
 ##### SMS Alerts
-You can configure ERPNext Healthcare to alert Patients via SMS when the Lab Test result gets ready (Submit) and when you Email the result. You an configure the templates for the SMS as registered with your provider here.
+You can configure Revalue ERP Healthcare to alert Patients via SMS when the Lab Test result gets ready (Submit) and when you Email the result. You an configure the templates for the SMS as registered with your provider here.
 > Healthcare > Setup > Healthcare Settings > Laboratory SMS Alerts
 
 
@@ -22,14 +22,14 @@ Whenever you create a new Lab Test, the Lab Test document is loaded based on the
 Here's how you can configure various types of templates.
 > Healthcare > Setup > Lab Test Template > New Lab Test Template
 
-After providing the Name for the Test you will have to select a Code and Item group for creating the mapped Item. ERPNext Healthcare maps every Lab Test (every other billable healthcare service) to an Item with "Maintain Stock" set to false. This way, the Accounts Module will invoice the Item and you can see the Sales related reports of Selling Module. You can also set selling rate of the Lab Test here - this will update the Selling Price List.
+After providing the Name for the Test you will have to select a Code and Item group for creating the mapped Item. Revalue ERP Healthcare maps every Lab Test (every other billable healthcare service) to an Item with "Maintain Stock" set to false. This way, the Accounts Module will invoice the Item and you can see the Sales related reports of Selling Module. You can also set selling rate of the Lab Test here - this will update the Selling Price List.
 
 > The Standard Selling Rate field behaves similar to the Item Standard Selling Rate, updating this will not update the Selling Price List
 
 The Is Billable flag in Lab Test Template creates the Item, but as Disabled. Likewise, unchecking this flag will Enable the Item.
 
 ###### Result Format
-Following are the result formats available in ERPNext Healthcare
+Following are the result formats available in Revalue ERP Healthcare
 
 * Single - select this format for results which require only a single input, result UOM and normal value
 * Compound - allows you to configure results which require multiple input fields with corresponding event names, result UOMs and normal values

@@ -10,7 +10,7 @@ You can create a new Supplier from:
 
 ### Contacts and Addresses
 
-Contacts and Addresses in ERPNext are stored separately so that you can create multiple Contacts and Addresses for a Suppliers. Once Supplier is saved, you will find option to create Contact and Address for that Supplier.
+Contacts and Addresses in Revalue ERP are stored separately so that you can create multiple Contacts and Addresses for a Suppliers. Once Supplier is saved, you will find option to create Contact and Address for that Supplier.
 
 <img class="screenshot" alt="Supplier Master" src="/docs/assets/img/buying/supplier-new-address-contact.png">
 
@@ -28,9 +28,9 @@ If you don't want to customize payable account, and proceed with default payable
 
 > Advanced Tip: Default Payable Account is set in the Company master. If you want to set another account as Account as default for payable instead of Creditors Account, go to Company master, and set that account as "Default Payable Account".
 
-You can add multiple companies in your ERPNext instance, and one Supplier can be used across multiple companies. In this case, you should define Companywise Payable Account for the Supplier in the "Default Payable Accounts" table.
+You can add multiple companies in your Revalue ERP instance, and one Supplier can be used across multiple companies. In this case, you should define Companywise Payable Account for the Supplier in the "Default Payable Accounts" table.
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/anoGi_RpQ20" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/A10yG5VGQrQ" frameborder="0" allowfullscreen></iframe>
 
 (Check from 2:20)
 

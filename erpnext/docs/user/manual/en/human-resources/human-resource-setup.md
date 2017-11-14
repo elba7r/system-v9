@@ -22,7 +22,7 @@ To setup Leaves, create:
 
 ### Payroll (Salary) Setup
 
-In ERPNext, salaries have two types of components, earnings (basic salary,
+In Revalue ERP, salaries have two types of components, earnings (basic salary,
 expenses paid by the company, like telephone bill, travel allowance etc) and
 deductions (amounts deducted for taxes, social security etc). To setup
 payroll, you must first setup all the different types of earnings and

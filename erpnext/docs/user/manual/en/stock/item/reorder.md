@@ -4,7 +4,7 @@ The **Re-order Level** is the point at which stock on a particular item has dimi
 
 You can update Re-order Level and Re-order Qty for an Item in the Auto Re-order section.
 
-For example, you can set your reorder level of Motherboard at 10. When there are only 10 Motherboards remaining in stock, the system will either automatically create a Material Request in your ERPNext account.
+For example, you can set your reorder level of Motherboard at 10. When there are only 10 Motherboards remaining in stock, the system will either automatically create a Material Request in your Revalue ERP account.
 
 **Re-order quantity** is the quantity to order, so that the sum of ordering cost and holding cost is at its minimum.The re-order quantity is based on the minimum order quantity specified by the supplier and many other factors.
 

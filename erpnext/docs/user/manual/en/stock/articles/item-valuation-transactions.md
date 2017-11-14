@@ -1,6 +1,6 @@
 # Item Valuation Methods and Transactions
 
-In ERPNext, Item's stock valuation is updated on the creation of one of the following transaction.
+In Revalue ERP, Item's stock valuation is updated on the creation of one of the following transaction.
 
 1.  Purchase Receipt
 2.  Stock Entry of type Material Receipt
@@ -14,4 +14,4 @@ You can also set Valuation Method in the item master, especially when a valuatio
 
 <img class="screenshot" alt="Download Backup" src="/docs/assets/img/articles/item-valuation-2.png">
 
-[Click here to learn about the valuation methods available in the ERPNext, and how it works.](https://frappe.io/blog/erpnext-features/inventory-valuation-method-fifo-vs-moving-average)
+[Click here to learn about the valuation methods available in the Revalue ERP, and how it works.](http://revaluesoft.com)

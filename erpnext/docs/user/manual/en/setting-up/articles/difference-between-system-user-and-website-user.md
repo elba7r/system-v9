@@ -4,7 +4,7 @@
 
 **Answer:**
 
-There are two type of Users in ERPNext.
+There are two type of Users in Revalue ERP.
 
 * **System User**: They are Employees of your company. Example of Roles assigned to System Users are Account User, Sales Manager, Purchase User, Support Team etc.
 

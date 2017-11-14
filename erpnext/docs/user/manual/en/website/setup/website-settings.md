@@ -41,7 +41,7 @@ You can integrate the website using Google Analytics and enable social media sha
 
 <img class="screenshot" alt="Integrations" src="/docs/assets/img/website/integrations.png">
 
-* You can disable public signup to your ERPNext account by checking 'disable signup'
+* You can disable public signup to your Revalue ERP account by checking 'disable signup'
 
 {next}
 

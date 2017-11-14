@@ -53,7 +53,7 @@ monthly, quarterly, half-yearly or annual basis, you can check the “Recurring
 Invoice” box. Here you can fill in the details of how frequently you want to
 bill this Invoice and the period for which the contract is valid.
 
-ERPNext will automatically create new Invoices and mail it to the Email Addresses
+Revalue ERP will automatically create new Invoices and mail it to the Email Addresses
 you set.
 
 #### POS Invoices
@@ -88,7 +88,7 @@ the Print Heading feature.
 Invoice it will show up in your “Accounts Receivable” and “Income”. This is
 not ideal as your Customer may or may not decide to pay up. But since your
 Customer wants an “Invoice”, you could give the Customer a Quotation (in
-ERPNext) titled as “Pro Forma Invoice”. This way everyone is happy.
+Revalue ERP) titled as “Pro Forma Invoice”. This way everyone is happy.
 
 This is a fairly common practice. We follow this at Frappé too.
 {next}

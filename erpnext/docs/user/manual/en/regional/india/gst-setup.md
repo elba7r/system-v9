@@ -1,8 +1,8 @@
-# GST Features in ERPNext
+# GST Features in Revalue ERP
 
 ### 1. Setting up GSTIN
 
-GST Law requires that you maintain the GSTIN number for all your suppliers and vendors. In ERPNext, GSTIN is linked to the **Address**
+GST Law requires that you maintain the GSTIN number for all your suppliers and vendors. In Revalue ERP, GSTIN is linked to the **Address**
 
 <img class="screenshot" alt="GST in Customer" src="/docs/assets/img/regional/india/gstin-customer.gif">
 
@@ -23,7 +23,7 @@ Open Address Template record for India, add GSTIN number and State Code there if
 
 ### 2. Setting up HSN Codes
 
-According to the GST Law, your itemised invoices must contain the HSN Code related to that Item. ERPNext comes pre-installed with all 12,000+ HSN Codes so that you can easily select the relevant HSN Code in your Item
+According to the GST Law, your itemised invoices must contain the HSN Code related to that Item. Revalue ERP comes pre-installed with all 12,000+ HSN Codes so that you can easily select the relevant HSN Code in your Item
 
 <img class="screenshot" alt="HSN in Item" src="/docs/assets/img/regional/india/hsn-item.gif">
 
@@ -69,7 +69,7 @@ To print Tax Invoice as per GSTN guidelines, please select **GST Tax Invoice** p
 
 ### Reports
 
-ERPNext comes with most of your reports you need to prepare your GST Returns. Go to Accounts > GST India head for the list.
+Revalue ERP comes with most of your reports you need to prepare your GST Returns. Go to Accounts > GST India head for the list.
 
 <img class="screenshot" alt="GST Menus" src="/docs/assets/img/regional/india/gst-menu.png">
 

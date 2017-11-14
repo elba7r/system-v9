@@ -4,7 +4,7 @@ Capacity Planning functionality helps you in tracking production jobs allocated 
 
 <img alt="Role Desk Permission" class="screenshot" src="/docs/assets/img/articles/capacity-1.png">
 
-Follow are the steps to use Capacity Planning Feature in your ERPNext account.
+Follow are the steps to use Capacity Planning Feature in your Revalue ERP account.
 
 1.  Operations  
 
@@ -14,7 +14,7 @@ Follow are the steps to use Capacity Planning Feature in your ERPNext account.
 
 2.  Workstation  
 
-    Add each Workstation in your ERPNext account from:  
+    Add each Workstation in your Revalue ERP account from:  
 
     `Manufacturing > Bill of Materials > Workstation` 
 

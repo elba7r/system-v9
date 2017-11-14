@@ -4,7 +4,7 @@ If you have a contract with a **Customer** where you bill the Customer on a mont
 
 #### Scenario:
 
-Subscription for your hosted ERPNext account requires yearly renewal. We use Sales Order for generating proforma invoices. To automate proforma invoicing for renewal, we set original Sales Order as recurring. Recurring proforma invoice is created automatically just before customer's account is about to expire, and requires renewal. This recurring Proforma Invoice is also emailed automatically to the customer.
+Subscription for your hosted Revalue ERP account requires yearly renewal. We use Sales Order for generating proforma invoices. To automate proforma invoicing for renewal, we set original Sales Order as recurring. Recurring proforma invoice is created automatically just before customer's account is about to expire, and requires renewal. This recurring Proforma Invoice is also emailed automatically to the customer.
 
 Feature of setting document as recurring is available in Sales Order, Sales Invoice, Purchase Order and Purchase Invoice.
 

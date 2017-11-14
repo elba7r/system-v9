@@ -49,27 +49,27 @@ def get_data():
 				{
 					"type": "help",
 					"name": _("Data Import and Export"),
-					"youtube_id": "6wiriRKPhmg"
+					"youtube_id": ""
 				},
 				{
 					"type": "help",
 					"label": _("Setting up Email"),
-					"youtube_id": "YFYe0DrB95o"
+					"youtube_id": ""
 				},
 				{
 					"type": "help",
 					"label": _("Printing and Branding"),
-					"youtube_id": "cKZHcx1znMc"
+					"youtube_id": ""
 				},
 				{
 					"type": "help",
 					"label": _("Users and Permissions"),
-					"youtube_id": "fnBoRhBrwR4"
+					"youtube_id": ""
 				},
 				{
 					"type": "help",
 					"label": _("Workflow"),
-					"youtube_id": "yObJUg9FxFs"
+					"youtube_id": ""
 				},
 			]
 		},

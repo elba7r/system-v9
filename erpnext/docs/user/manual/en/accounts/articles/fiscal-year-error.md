@@ -26,7 +26,7 @@ Default Fiscal Year will be updated in the Global Default setting as well. You c
 
 <img alt="Debit Credit Not Equal" class="screenshot" src="/docs/assets/img/articles/fiscal-year-error-2.png">
 
-Save Global Default, and Reload your ERPNext account. Then, default Fiscal Year will be auto-updated in your transactions.
+Save Global Default, and Reload your Revalue ERP account. Then, default Fiscal Year will be auto-updated in your transactions.
 
 Note: In transactions, you can manually select required Fiscal Year, from More Info section.
 

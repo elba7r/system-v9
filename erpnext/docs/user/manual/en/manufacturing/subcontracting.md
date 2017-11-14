@@ -9,7 +9,7 @@ components and package them at their facilities.
 
 If your business involves outsourcing certain processes to a third party
 Supplier, where you buy the raw material from, you can track this by using the
-sub-contracting feature of ERPNext.  
+sub-contracting feature of Revalue ERP.  
 
 ### Setup Sub-Contracting:
 
@@ -43,11 +43,11 @@ correct stock is maintained at the Supplier’s end.
 > Note 1: Make sure that the “Rate” of processed Item is the processing rate
 (excluding the raw material rate).
 
-> Note 2: ERPNext will automatically add the raw material rate for your
+> Note 2: Revalue ERP will automatically add the raw material rate for your
 valuation purpose when you receive the finished Item in your stock.
 
 ### Video Help
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/ThiMCC2DtKo" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/_vgONrkLtFY" frameborder="0" allowfullscreen></iframe>
 
 {next}

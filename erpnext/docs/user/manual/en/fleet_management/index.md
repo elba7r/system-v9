@@ -2,7 +2,7 @@
 
 Fleet Management module helps your Organization manage their fleet of vehicles and track their expenses.
 
-To use Fleet Management in ERPNext,
+To use Fleet Management in Revalue ERP,
 
   1. Set Up a Vehicle.
   2. Enter Vehicle Logs regularly.
@@ -15,7 +15,7 @@ The Vehicle Set Up allows you to define the different types of Vehicles in your 
 
 To create a new Vehicle go to:
 
-ERPNext > Vehicle
+Revalue > Vehicle
 
 * Enter License Plate,Make,Model,Odometer Value,Fuel Type and Fuel UOM for a quick entry.
 
@@ -35,7 +35,7 @@ Vehicle Log is used to enter Odometer readings,Fuel Expenses and Service Expense
 
 To create a new Vehicle Log go to:
 
-ERPNext > Vehicle Log
+Revalue > Vehicle Log
 
 * Enter License Plate,Employee,Date,Odometer reading for a quick entry.
 

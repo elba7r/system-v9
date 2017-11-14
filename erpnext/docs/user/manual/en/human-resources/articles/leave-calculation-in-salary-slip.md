@@ -10,7 +10,7 @@ There are two types of leave which user can apply for.
     </li>
 </ol>Paid Leave are firstly allocated by HR manager. As and when Employee creates Leave Application, leaves allocated to him/her are deducted. These leaves doesn't have impact on the employee's Salary Slip.
 <br>
-<br>When Employee is out of paid leave, he create Leave Application for unpaid leave. The term used for unpaid leave in ERPNext is Leave Without Pay (LWP). These leaves does have impact on the Employee's Salary Slip.
+<br>When Employee is out of paid leave, he create Leave Application for unpaid leave. The term used for unpaid leave in Revalue ERP is Leave Without Pay (LWP). These leaves does have impact on the Employee's Salary Slip.
 <br>
 <br>
 <div class="well">Just marking Absent in the Attendance record do not have impact on salary calculation of an Employee, as that absenteeism could be because of paid leave. Hence creating Leave Application should be created incase of absenteeism.<br></div>Let's consider

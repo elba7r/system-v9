@@ -21,7 +21,7 @@ figure this out) it's a good opportunity to start learning about this. It will
 be worth the effort. You can also take the help of your accountant to setup
 your Chart of Accounts.
 
-Financial statements for your company are easily viewable in ERPNext. You can view financial statements
+Financial statements for your company are easily viewable in Revalue ERP. You can view financial statements
 such as  Balance Sheet, Profit and Loss statement and Cash flow statement.
 
 An Example of various financial statement are given below:
@@ -35,12 +35,12 @@ An Example of various financial statement are given below:
 #### Balance Sheet Report
 <img class="screenshot" alt="Balance Sheet Report" src="/docs/assets/img/accounts/balance_sheet_report.png">
 
-To edit your Chart of Accounts in ERPNext go to:
+To edit your Chart of Accounts in Revalue ERP go to:
 
 >  Accounts > Setup > Chart of Accounts
 
 Chart of Accounts is a tree view of the names of the Accounts (Ledgers and
-Groups) that a Company requires to manage its books of accounts. ERPNext sets
+Groups) that a Company requires to manage its books of accounts. Revalue ERP sets
 up a simple chart of accounts for each Company you create, but you have to
 modify it according to your needs and legal requirements. For each company,
 Chart of Accounts signifies the way to classify the accounting entries, mostly
@@ -83,7 +83,7 @@ not represent net worth (/assets), but rather represent the amount of money
 spent and collected in servicing customers during the period. Hence at the
 beginning and end of your Fiscal Year, they become zero.
 
-In ERPNext it is easy to create a Profit and Loss analysis chart. An example
+In Revalue ERP it is easy to create a Profit and Loss analysis chart. An example
 of a Profit and Loss analysis chart is given below:
 
 <img class="screenshot" alt="Financial Analytics Profit and Loss Statement" src="/docs/assets/img/accounts/financial-analytics-pl.png">
@@ -94,7 +94,7 @@ beginning or end of a period)
 
 ### Groups and Ledgers
 
-There are two main kinds of Accounts in ERPNext - Group and Ledger. Groups can
+There are two main kinds of Accounts in Revalue ERP - Group and Ledger. Groups can
 have sub-groups and ledgers within them, whereas ledgers are the leaf nodes of
 your chart and cannot be further classified.
 
@@ -110,7 +110,7 @@ Supplier).
 
 ### Other Account Types
 
-In ERPNext, you can also specify more information when you create a new
+In Revalue ERP, you can also specify more information when you create a new
 Account, this is there to help you select that particular account in a
 scenario like Bank Account or a Tax Account and has no effect on the Chart
 itself.
@@ -126,7 +126,7 @@ will see an option to “Open” or “Add Child” a new Account.
 Option to create will only appear if you click on a Group (folder) type
 Account.
 
-ERPNext creates a standard structure for you when the Company is created but
+Revalue ERP creates a standard structure for you when the Company is created but
 it is up to you to modify or add or remove accounts.
 
 Typically, you might want to create Accounts for

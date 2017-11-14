@@ -4,7 +4,7 @@ A newsletter is a short written report that tells about the recent activities
 of an organization. It is generally sent to members of the organization,
 potential clients customers or potential leads.
 
-In ERPNext, you can use this UI to send any type of communication to a large
+In Revalue ERP, you can use this UI to send any type of communication to a large
 number of audience. The process of sending bulk email to a target audience is
 very simple and easy.
 

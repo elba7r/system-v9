@@ -1,6 +1,6 @@
 # Print Style
 
-Frappe/ERPNext comes with pre-set styles for your printed documents. You can also create new styles using CSS that can be applied to all your print formats.
+Revaluesoft/Revalue ERP comes with pre-set styles for your printed documents. You can also create new styles using CSS that can be applied to all your print formats.
 
 To create a new **Print Style** go to **Setup > Printing and Branding > Print Style**, or just type "print style" in the search bar.
 

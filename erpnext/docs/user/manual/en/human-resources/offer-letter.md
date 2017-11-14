@@ -3,7 +3,7 @@
 Offer Letter is given to candidate after Interview & selection which states the offered salary package, 
 designation, grade, department working, no of days entitled for leave.
 
-In ERPNext you can make a record of the Offer Letters that you can given to candidates. To create a new offer Letter go to 
+In Revalue ERP you can make a record of the Offer Letters that you can given to candidates. To create a new offer Letter go to 
 
 > Human Resource > Offer Letter > New
 

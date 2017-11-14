@@ -212,23 +212,23 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Customer and Supplier"),
-					"youtube_id": "anoGi_RpQ20"
+					"label": _("Supplier"),
+					"youtube_id": "7wnFHDhYGEs"
 				},
 				{
 					"type": "help",
-					"label": _("Material Request to Purchase Order"),
-					"youtube_id": "4TN9kPyfIqM"
+					"label": _("Buying cycle"),
+					"youtube_id": "hsO9qOqD1X8"
 				},
 				{
 					"type": "help",
-					"label": _("Purchase Order to Payment"),
-					"youtube_id": "EK65tLdVUDk"
+					"label": _("Request For Quotation"),
+					"youtube_id": "-uLTiSakHnk"
 				},
 				{
 					"type": "help",
-					"label": _("Managing Subcontracting"),
-					"youtube_id": "ThiMCC2DtKo"
+					"label": _("Setting Taxes"),
+					"youtube_id": "sg6tkLh_qX4"
 				},
 			]
 		},

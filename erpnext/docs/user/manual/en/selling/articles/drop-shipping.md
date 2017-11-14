@@ -2,7 +2,7 @@
 
 **Drop shipping** is a supply chain management technique in which the retailer does not keep goods in stock. Instead they transfer customer orders and shipment details to either the manufacturer, another retailer, or a wholesaler, who then ships the goods directly to the customer
 
-In ERPNext, you can create a Drop Shipping by creating Purchase Order against Sales Order.
+In Revalue ERP, you can create a Drop Shipping by creating Purchase Order against Sales Order.
 
 > Selling > Documents > Sales Order > Purchase Order
 

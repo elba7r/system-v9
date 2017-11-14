@@ -10,7 +10,7 @@ accounting for inventory:
 
 In this process, for each stock transactions, the system posts relevant
 accounting entries to sync stock balance and accounting balance. This is the
-default setting in ERPNext for new accounts.
+default setting in Revalue ERP for new accounts.
 
 When you buy and receive items, those items are booked as the company’s assets
 (stock-in-hand / fixed-assets). When you sell and deliver those items, an

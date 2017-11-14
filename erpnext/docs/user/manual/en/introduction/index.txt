@@ -1,6 +1,6 @@
 do-i-need-an-erp
 open-source
-getting-started-with-erpnext
+getting-started-with-revalue
 the-champion
 implementation-strategy
 key-workflows

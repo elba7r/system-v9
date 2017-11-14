@@ -1,6 +1,6 @@
 #Letter Head
 
-Each company has default Letter Head for their company. This Letter Head values are generally set as Header and Footer in the documents. In ERPNext, you can capture the these details in the Letter Head master.
+Each company has default Letter Head for their company. This Letter Head values are generally set as Header and Footer in the documents. In Revalue ERP, you can capture the these details in the Letter Head master.
 
 In the Letter Head master, you can track Header and Footer details of the company. These details will appear in the Print Format of the transactions like Sales Order, Sales Invoice, Salary Slip, Purchase Order etc.
 
@@ -10,7 +10,7 @@ In the Letter Head master, you can track Header and Footer details of the compan
 
 ####Step 2: Letter Head Name
 
-In one ERPNext account, you can enter multiple Letter Head, hence name Letter Head so that you can identify it easily. For example, if your Letter Head also contains office address, then you should create separate Letter Head for each office location.
+In one Revalue ERP account, you can enter multiple Letter Head, hence name Letter Head so that you can identify it easily. For example, if your Letter Head also contains office address, then you should create separate Letter Head for each office location.
 
 ####Step 3: Enter Details
 

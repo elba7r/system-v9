@@ -7,7 +7,7 @@ is typically used to help in purchasing decisions.
 
 A Supplier Scorecard is manually created for each supplier.
 
-In ERPNext, you can create a supplier scorecard by going to:
+In Revalue ERP, you can create a supplier scorecard by going to:
 
 > Buying > Documents > Supplier Scorecard > New Supplier Scorecard
 

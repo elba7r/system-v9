@@ -25,7 +25,7 @@ The **Is Paid** checkbox should be checked if there is a part or full payment
 on the invoice at posting date.
 
 #### Update Stock
-The **Update Stock** checkbox should be checked if you want ERPNext to automatically
+The **Update Stock** checkbox should be checked if you want Revalue ERP to automatically
  update your inventory. Consequently, there will be no need for a Delivery Note.
 
 #### Accounting Impact
@@ -49,7 +49,7 @@ Credits:
   * Supplier
   
 ##### Accounting Treatment When **Is Paid** is checked
-If **Is Paid** is checked, ERPNext will also make the following
+If **Is Paid** is checked, Revalue ERP will also make the following
 accounting entries:
 
 Debits:

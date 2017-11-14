@@ -6,7 +6,7 @@ customs, etc. They are usually large plain buildings in industrial areas of
 cities, towns, and villages. They mostly have loading docks to load and unload
 goods from trucks.
 
-The terminology of 'Warehouse" in ERPNext is a bit broader though and maybe can be 
+The terminology of 'Warehouse" in Revalue ERP is a bit broader though and maybe can be 
 regarded as "storage locations". For example you can create a sub-Warehouse which 
 practically is a shelf inside your actual location. 
 This can become quite a detailed Tree like >Warehouse >Room >Row >Shelf >Box
@@ -16,7 +16,7 @@ could also switch to 'Tree' View or simply type warehouse tree in the awsone bar
 
 <img class="screenshot" alt="Warehouse" src="/docs/assets/img/stock/warehouse.png">
 
-In ERPNext, every Warehouse must belong to a specific company, to maintain
+In Revalue ERP, every Warehouse must belong to a specific company, to maintain
 company wise stock balance. In order to do so each Warehouse is linked with an 
 Account in the Chart of Accounts (by default of the the same name as the Warehouse 
 itself) which captures the monetary equivalent of the goods or materials stored 
@@ -32,7 +32,7 @@ You can include user restrictions for these Warehouses. In case you do not
 wish a particular user to operate on a particular Warehouse, you can refrain
 the user from accessing that Warehouse.
 
-> Note: ERPNext system maintains stock balance for every distinct combination
+> Note: Revalue ERP system maintains stock balance for every distinct combination
 of Item and Warehouse. Thus you can get stock balance for any specific Item in
 a particular Warehouse on any particular date.
 

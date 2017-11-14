@@ -7,7 +7,7 @@ provided with as much accurate information as possible.
 Buying in right amounts, in right quantities, can affect your cash flow and
 profitability.
 
-ERPNext contains a set of transactions that will make your buying process as
+Revalue ERP contains a set of transactions that will make your buying process as
 efficient and seamless as possible.
 
 ### Topics

@@ -14,7 +14,7 @@ On receipt of items in a particular warehouse, the balance in the Warehouse Acco
 
 <img class="screenshot" alt="Perpetual Inventory" src="/docs/assets/img/accounts/perpetual-1.png">
 
-  * Setup the following default accounts for each Company. These accounts are created automatically in the new ERPNext accounts.
+  * Setup the following default accounts for each Company. These accounts are created automatically in the new Revalue ERP accounts.
 
 	* Default Inventory Account
     * Stock Received But Not Billed

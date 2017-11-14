@@ -6,7 +6,7 @@ If you have a contract with the Customer where your organization gives bill to t
 
 #### Scenario
 
-Subscription for your hosted ERPNext account requires yearly renewal. We use Sales Invoice for generating proforma invoices. To automate proforma invoicing for renewal, we set original Sales Invoice on the subscription form. Recurring proforma invoice is created automatically just before customer's account is about to expire, and requires renewal. This recurring Proforma Invoice is also emailed automatically to the customer.
+Subscription for your hosted Revalue ERP account requires yearly renewal. We use Sales Invoice for generating proforma invoices. To automate proforma invoicing for renewal, we set original Sales Invoice on the subscription form. Recurring proforma invoice is created automatically just before customer's account is about to expire, and requires renewal. This recurring Proforma Invoice is also emailed automatically to the customer.
 
 To set the subscription for the sales invoice
 Goto Subscription > select base doctype "Sales Invoice" > select base docname "Invoice No" > Save

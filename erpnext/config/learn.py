@@ -8,23 +8,8 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Navigating"),
-					"youtube_id": "YDoI2DF4Lmc"
-				},
-				{
-					"type": "help",
-					"label": _("Setup Wizard"),
-					"youtube_id": "oIOf_zCFWKQ"
-				},
-				{
-					"type": "help",
-					"label": _("Customizing Forms"),
-					"youtube_id": "pJhL9mmxV_U"
-				},
-				{
-					"type": "help",
 					"label": _("Report Builder"),
-					"youtube_id": "y0o5iYZOioU"
+					"youtube_id": "co-rH0mNXmQ"
 				},
 			]
 
@@ -34,38 +19,13 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Data Import and Export"),
-					"youtube_id": "6wiriRKPhmg"
-				},
-				{
-					"type": "help",
 					"label": _("Opening Stock Balance"),
-					"youtube_id": "0yPgrtfeCTs"
-				},
-				{
-					"type": "help",
-					"label": _("Setting up Email Account"),
-					"youtube_id": "YFYe0DrB95o"
-				},
-				{
-					"type": "help",
-					"label": _("Printing and Branding"),
-					"youtube_id": "cKZHcx1znMc"
-				},
-				{
-					"type": "help",
-					"label": _("Users and Permissions"),
-					"youtube_id": "fnBoRhBrwR4"
-				},
-				{
-					"type": "help",
-					"label": _("Workflow"),
-					"youtube_id": "yObJUg9FxFs"
+					"youtube_id": "MKmb9La0uro"
 				},
 				{
 					"type": "help",
 					"label": _("File Manager"),
-					"youtube_id": "4-osLW3E_Rk"
+					"youtube_id": "wxs-aVQSFM8"
 				},
 			]
 		},
@@ -75,22 +35,22 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Chart of Accounts"),
-					"youtube_id": "DyR-DST-PyA"
+					"youtube_id": "nib2UfaVNfw"
 				},
 				{
 					"type": "help",
 					"label": _("Setting up Taxes"),
-					"youtube_id": "nQ1zZdPgdaQ"
+					"youtube_id": "sg6tkLh_qX4"
 				},
 				{
 					"type": "help",
 					"label": _("Opening Accounting Balance"),
-					"youtube_id": "kdgM20Q-q68"
+					"youtube_id": "9_yyE7G_mrk"
 				},
 				{
 					"type": "help",
 					"label": _("Advance Payments"),
-					"youtube_id": "J46-6qtyZ9U"
+					"youtube_id": "fn-ei6_s2DQ"
 				},
 			]
 		},
@@ -99,13 +59,13 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Lead to Quotation"),
-					"youtube_id": "TxYX4r4JAKA"
+					"label": _("Customer Relationship Management"),
+					"youtube_id": "GW04eUr8TPA"
 				},
 				{
 					"type": "help",
 					"label": _("Newsletters"),
-					"youtube_id": "muLKsCrrDRo"
+					"youtube_id": "pLHZx9KeLI4"
 				},
 			]
 		},
@@ -114,28 +74,28 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Customer and Supplier"),
-					"youtube_id": "anoGi_RpQ20"
+					"label": _("Customer"),
+					"youtube_id": "sYK31gejHVQ"
 				},
 				{
 					"type": "help",
-					"label": _("Sales Order to Payment"),
-					"youtube_id": "7AMq4lqkN4A"
+					"label": _("Sales Cycle"),
+					"youtube_id": "gumxGZQe82E"
 				},
 				{
 					"type": "help",
 					"label": _("Point-of-Sale"),
-					"youtube_id": "4WkelWkbP_c"
+					"youtube_id": "zU8YXEc_fJo"
 				},
 				{
 					"type": "help",
 					"label": _("Product Bundle"),
-					"youtube_id": "yk3kPrRyRRc"
+					"youtube_id": "oN5gimBPxQo"
 				},
 				{
 					"type": "help",
 					"label": _("Drop Ship"),
-					"youtube_id": "hUc0hu_XLdo"
+					"youtube_id": "56_kXOb_xy0"
 				},
 			]
 		},
@@ -145,42 +105,42 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Items and Pricing"),
-					"youtube_id": "qXaEwld4_Ps"
+					"youtube_id": "fom4ukmp0x8"
 				},
 				{
 					"type": "help",
 					"label": _("Item Variants"),
-					"youtube_id": "OGBETlCzU5o"
+					"youtube_id": "G2Se9YYplro"
 				},
 				{
 					"type": "help",
 					"label": _("Opening Stock Balance"),
-					"youtube_id": "0yPgrtfeCTs"
+					"youtube_id": "MKmb9La0uro"
 				},
 				{
 					"type": "help",
 					"label": _("Making Stock Entries"),
-					"youtube_id": "Njt107hlY3I"
+					"youtube_id": "S-x4ivOyguo"
 				},
 				{
 					"type": "help",
 					"label": _("Serialized Inventory"),
-					"youtube_id": "gvOVlEwFDAk"
+					"youtube_id": "Y5opw7BbEsA"
 				},
 				{
 					"type": "help",
 					"label": _("Batch Inventory"),
-					"youtube_id": "J0QKl7ABPKM"
+					"youtube_id": "uRn_6DFWvAM"
 				},
 				{
 					"type": "help",
 					"label": _("Managing Subcontracting"),
-					"youtube_id": "ThiMCC2DtKo"
+					"youtube_id": "_vgONrkLtFY"
 				},
 				{
 					"type": "help",
 					"label": _("Quality Inspection"),
-					"youtube_id": "WmtcF3Y40Fs"
+					"youtube_id": "Gc6CQw_TFYY"
 				},
 			]
 		},
@@ -189,23 +149,13 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Customer and Supplier"),
-					"youtube_id": "anoGi_RpQ20"
+					"label": _("Supplier"),
+					"youtube_id": "7wnFHDhYGEs"
 				},
 				{
 					"type": "help",
-					"label": _("Material Request to Purchase Order"),
-					"youtube_id": "4TN9kPyfIqM"
-				},
-				{
-					"type": "help",
-					"label": _("Purchase Order to Payment"),
-					"youtube_id": "EK65tLdVUDk"
-				},
-				{
-					"type": "help",
-					"label": _("Managing Subcontracting"),
-					"youtube_id": "ThiMCC2DtKo"
+					"label": _("Buying Cycle"),
+					"youtube_id": "hsO9qOqD1X8"
 				},
 			]
 		},
@@ -215,17 +165,17 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Bill of Materials"),
-					"youtube_id": "hDV0c1OeWLo"
+					"youtube_id": "26TiAo5BgAA"
 				},
 				{
 					"type": "help",
 					"label": _("Production Planning Tool"),
-					"youtube_id": "CzatSl4zJ2Y"
+					"youtube_id": "WGGSID4FTBU"
 				},
 				{
 					"type": "help",
 					"label": _("Production Order"),
-					"youtube_id": "ZotgLyp2YFY"
+					"youtube_id": "dMY40WOWyXI"
 				},
 
 			]
@@ -236,22 +186,22 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Setting up Employees"),
-					"youtube_id": "USfIUdZlUhw"
+					"youtube_id": "MSkuMQ3r8iY"
 				},
 				{
 					"type": "help",
 					"label": _("Leave Management"),
-					"youtube_id": "fc0p_AXebc8"
+					"youtube_id": "KB9zRz8Xq_A"
 				},
 				{
 					"type": "help",
 					"label": _("Expense Claims"),
-					"youtube_id": "5SZHJF--ZFY"
+					"youtube_id": "SJJ08nE45yE"
 				},
 				{
 					"type": "help",
-					"label": _("Processing Payroll"),
-					"youtube_id": "apgE-f25Rm0"
+					"label": _("Salary Management"),
+					"youtube_id": "tWETdJWB6_8"
 				},
 			]
 		},
@@ -261,22 +211,7 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Managing Projects"),
-					"youtube_id": "egxIGwtoKI4"
-				},
-			]
-		},
-		{
-			"label": _("Website"),
-			"items": [
-				{
-					"type": "help",
-					"label": _("Publish Items on Website"),
-					"youtube_id": "W31LBBNzbgc"
-				},
-				{
-					"type": "help",
-					"label": _("Shopping Cart"),
-					"youtube_id": "xkrYO-KFukM"
+					"youtube_id": "R713ScNrTHY"
 				},
 			]
 		},

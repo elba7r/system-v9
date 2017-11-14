@@ -1,6 +1,6 @@
 # Sign Up
 
-Your Customer and Suppliers can signup to your ERPNext account by following Signup option on the Login Page.
+Your Customer and Suppliers can signup to your Revalue ERP account by following Signup option on the Login Page.
 
 #### Step 1: Signup
 

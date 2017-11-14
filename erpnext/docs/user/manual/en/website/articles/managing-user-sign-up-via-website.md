@@ -1,10 +1,10 @@
 #Customer / Supplier Signup
 
-Your Customer and Suppliers can signup to your ERPNext account by following Signup option on the Login Page.
+Your Customer and Suppliers can signup to your Revalue ERP account by following Signup option on the Login Page.
 
 <img class="screenshot" alt="Website User Signup" src="/docs/assets/img/website/website-login.png">
 
-As seen above the login / sign-up button appears on the homepage of the website generated using ERPNext.
+As seen above the login / sign-up button appears on the homepage of the website generated using Revalue ERP.
 
 One might want to disable this feature to prevent anonymous users from signing up via the web.
 

@@ -38,7 +38,7 @@ The rates you quote may depend on two things.
 
   * The Price List: If you have multiple Price Lists, you can select a Price List or tag it to the Customer (so that it is auto-selected). Your Item prices will automatically be updated from the Price List. For details refer [Price List](/docs/user/manual/en/setting-up/price-lists.html)
 
-  * The Currency: If you are quoting to a Customer in a different currency, you will have to update the conversion rates to enable ERPNext to save the information in your standard Currency. This will help you to analyze the value of your Quotations in standard Currency.
+  * The Currency: If you are quoting to a Customer in a different currency, you will have to update the conversion rates to enable Revalue ERP to save the information in your standard Currency. This will help you to analyze the value of your Quotations in standard Currency.
 
 ### Taxes
 
@@ -85,6 +85,6 @@ Print Heading.
 
 While making your sales transactions like a Quotation (or Sales Order) you
 can also give discounts to your customers. In the Discount section, add
-the discount in percentage or fixed amount. Read [Discount](https://erpnext.org/docs/user/manual/en/selling/articles/applying-discount) for more explanation.
+the discount in percentage or fixed amount.
 
 {next}

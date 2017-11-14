@@ -4,7 +4,7 @@ Users can be added by the System Manager. If you are a System Manager, you can a
 
 > Setup > User
 
-There are two main classes of users: Web Users and System Users. System Users are people using ERPNext in the company. Web users are customers or suppliers (or portal users).
+There are two main classes of users: Web Users and System Users. System Users are people using Revalue ERP in the company. Web users are customers or suppliers (or portal users).
   
 Under User a lot of info can be entered. For the sake of usability the information entered for webs users is minimal: First Name and email.
 Important is to realize that the email address is the unique key (ID) identifying the Users.

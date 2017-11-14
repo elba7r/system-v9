@@ -13,7 +13,7 @@ After meeting with my accountant here in the US, I was informed that with my com
 
 ### Example
 
-Example journal entry (using Journal Voucher in ERPNext) for a withdrawal of $1000 would be:
+Example journal entry (using Journal Voucher in Revalue ERP) for a withdrawal of $1000 would be:
 
 1. Credit **Cash** $1000
 2. Debit **Owner's Draws** $1000

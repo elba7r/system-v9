@@ -1,7 +1,7 @@
 # Tasks
 
 Project is divided into Tasks. 
-In ERPNext, you can also create a Task independently.
+In Revalue ERP, you can also create a Task independently.
 
 <img class="screenshot" alt="Task" src="/docs/assets/img/project/task.png">
 
@@ -27,7 +27,7 @@ You can specify a list of dependent tasks under the 'Depends On' section.
 
 ### Managing Time
 
-ERPNext uses [Time Log](/docs/user/manual/en/projects/time-log.html) to track the progress of a Task.
+Revalue ERP uses [Time Log](/docs/user/manual/en/projects/time-log.html) to track the progress of a Task.
 You can create multiple Time Logs against each task.
 The Actual Start and End Time along with the costing is updated based on the Time Log.
 

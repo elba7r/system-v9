@@ -19,12 +19,12 @@ struggle to keep things organized. They often use a mix of apps like
 spreadsheets, accounting software, web CRM etc to manage. The problem is, not
 everyone is on the same page. An ERP changes that.
 
-## What is ERPNext?
+## What is Revalue ERP?
 
-ERPNext is an end-to-end business solution that helps you to manage all your business information in one application 
+Revalue ERP is an end-to-end business solution that helps you to manage all your business information in one application 
 and use it to not only manage operations but also enables you to take informed decisions well in time to remain ahead of your competition. It forms a backbone of your business to add strength, transparency and control to your enterprise. 
 
-Among other things, ERPNext will help you to:
+Among other things, Revalue ERP will help you to:
 
   * Track all Invoices and Payments.
   * Know what quantity of which product is available in stock.

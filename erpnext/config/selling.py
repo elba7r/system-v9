@@ -308,18 +308,18 @@ def get_data():
 			"items": [
 				{
 					"type": "help",
-					"label": _("Customer and Supplier"),
-					"youtube_id": "anoGi_RpQ20"
+					"label": _("Customer"),
+					"youtube_id": "sYK31gejHVQ"
 				},
 				{
 					"type": "help",
-					"label": _("Sales Order to Payment"),
-					"youtube_id": "7AMq4lqkN4A"
+					"label": _("Sales Cycle"),
+					"youtube_id": "gumxGZQe82E"
 				},
 				{
 					"type": "help",
 					"label": _("Point-of-Sale"),
-					"youtube_id": "4WkelWkbP_c"
+					"youtube_id": "zU8YXEc_fJo"
 				},
 			]
 		},

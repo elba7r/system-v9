@@ -298,22 +298,22 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Setting up Employees"),
-					"youtube_id": "USfIUdZlUhw"
+					"youtube_id": "MSkuMQ3r8iY"
 				},
 				{
 					"type": "help",
 					"label": _("Leave Management"),
-					"youtube_id": "fc0p_AXebc8"
+					"youtube_id": "KB9zRz8Xq_A"
 				},
 				{
 					"type": "help",
 					"label": _("Expense Claims"),
-					"youtube_id": "5SZHJF--ZFY"
+					"youtube_id": "SJJ08nE45yE"
 				},
 				{
 					"type": "help",
-					"label": _("Processing Payroll"),
-					"youtube_id": "apgE-f25Rm0"
+					"label": _("Salary Management"),
+					"youtube_id": "tWETdJWB6_8"
 				},
 			]
 		}

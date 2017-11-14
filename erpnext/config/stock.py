@@ -298,37 +298,37 @@ def get_data():
 				{
 					"type": "help",
 					"label": _("Items and Pricing"),
-					"youtube_id": "qXaEwld4_Ps"
+					"youtube_id": "fom4ukmp0x8"
 				},
 				{
 					"type": "help",
 					"label": _("Item Variants"),
-					"youtube_id": "OGBETlCzU5o"
+					"youtube_id": "G2Se9YYplro"
 				},
 				{
 					"type": "help",
 					"label": _("Opening Stock Balance"),
-					"youtube_id": "0yPgrtfeCTs"
+					"youtube_id": "MKmb9La0uro"
 				},
 				{
 					"type": "help",
 					"label": _("Making Stock Entries"),
-					"youtube_id": "Njt107hlY3I"
+					"youtube_id": "S-x4ivOyguo"
 				},
 				{
 					"type": "help",
 					"label": _("Serialized Inventory"),
-					"youtube_id": "gvOVlEwFDAk"
+					"youtube_id": "Y5opw7BbEsA"
 				},
 				{
 					"type": "help",
 					"label": _("Batch Inventory"),
-					"youtube_id": "J0QKl7ABPKM"
+					"youtube_id": "uRn_6DFWvAM"
 				},
 				{
 					"type": "help",
 					"label": _("Managing Subcontracting"),
-					"youtube_id": "ThiMCC2DtKo"
+					"youtube_id": "_vgONrkLtFY"
 				},
 			]
 		}

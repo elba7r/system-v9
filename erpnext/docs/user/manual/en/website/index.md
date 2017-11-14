@@ -13,7 +13,7 @@ Wouldn't it be nice if there was a way to update your product catalog on your
 site automatically from your ERP?
 
 We thought exactly the same and hence built a small Website Development app
-right inside ERPNext! Using ERPNext’s Website module, you can
+right inside Revalue ERP! Using Revalue ERP’s Website module, you can
 
   1. Create Web Pages
   2. Write a Blog

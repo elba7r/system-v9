@@ -1,6 +1,6 @@
 #Managing Multiple Companies
 
-ERPNext allows you to create multiple companies in a single ERPNext instance.
+Revalue ERP allows you to create multiple companies in a single Revalue ERP instance.
 
 In one account has multiple companies, you will find option to select Company in each transactions. While most of the records (mostly transactions) will be separated based on Company, there are few masters like Item, Item Group, Customer Group, Territory etc. which are common among all the companies.
 
@@ -32,7 +32,7 @@ Value will be auto-filled in most of these field to define company-wise defaults
 
 ####Chart of Account for New Company
 
-A separate Chart of Account master will be set for each company in the ERPNext. This allows you managing Accounts/Ledger master separately for each company. Also it allows you avail financial statement and reports like Balance Sheet and Profit and Loss Statement separately for each company.
+A separate Chart of Account master will be set for each company in the Revalue ERP. This allows you managing Accounts/Ledger master separately for each company. Also it allows you avail financial statement and reports like Balance Sheet and Profit and Loss Statement separately for each company.
 
 <img alt="New Company" class="screenshot" src="/docs/assets/img/articles/new-company-3.png">
 

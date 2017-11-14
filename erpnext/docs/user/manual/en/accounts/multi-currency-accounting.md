@@ -1,6 +1,6 @@
 # Multi Currency Accounting
 
-In ERPNext, you can make accounting entries in multiple currency. For example, if you have a bank account in foreign currency, you can make transactions in that currency and system will show bank balance in that specific currency only.
+In Revalue ERP, you can make accounting entries in multiple currency. For example, if you have a bank account in foreign currency, you can make transactions in that currency and system will show bank balance in that specific currency only.
 
 ## Setup
 
@@ -24,12 +24,12 @@ You can change accounting currency in Party / Account record, until making any t
 In case of multi-company setup, accounting currency of Party must be same for all the companies.
 
 ### Exchange Rates
-When dealing with multiple currencies, ERPNext has the Currency Exchange module for managing exchange rates. It allows you to save the exchange rate quotes you require. 
+When dealing with multiple currencies, Revalue ERP has the Currency Exchange module for managing exchange rates. It allows you to save the exchange rate quotes you require. 
 
-For foreign currency transactions, ERPNext checks Currency Exchange for any matching record. If this fails, ERPNext will attempt to get the exchange rate quote from [fixer.io](http://fixer.io). If this still fails, then the exchange rate will have to be entered manually.
+For foreign currency transactions, Revalue ERP checks Currency Exchange for any matching record. If this fails, Revalue ERP will attempt to get the exchange rate quote from [fixer.io](http://fixer.io). If this still fails, then the exchange rate will have to be entered manually.
 
 #### Exchange Rate Selection
-ERPNext automatically fetches the latest exchange rate available.
+Revalue ERP automatically fetches the latest exchange rate available.
 
 
 ## Transactions

@@ -4,7 +4,7 @@ Salary is a fixed amount of money or compensation paid to an employee by an empl
 
 Payroll is the administration of financial records of employees' salaries, wages, bonuses, net pay, and deductions.
 
-To process Payroll in ERPNext,
+To process Payroll in Revalue ERP,
 
   1. Create Salary Structures for all Employees.
   2. Generate Salary Slips via Process Payroll.
@@ -101,12 +101,12 @@ In conditions and formulas,
 
 Leave Without Pay (LWP) happens when an Employee runs out of allocated leaves
 or takes a leave without an approval (via Leave Application). If you want
-ERPNext to automatically deduct salary in case of LWP, then you must check on
+Revalue ERP to automatically deduct salary in case of LWP, then you must check on
 the “Apply LWP” column in the Earning Type and Deduction Type masters. The
 amount of pay cut is the proportion of LWP days divided by the total working
 days for the month (based on the Holiday List).
 
-If you don’t want ERPNext to manage LWP, just don’t click on LWP in any of the
+If you don’t want Revalue ERP to manage LWP, just don’t click on LWP in any of the
 Earning Types and Deduction Types.
 
 

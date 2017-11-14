@@ -24,7 +24,7 @@ details are carried over from your Sales Order.
 
 ### Shipping Packets or Items with Product Bundle
 
-If you are shipping Items that have a [Product Bundle](/docs/user/manual/en/selling/setup/product-bundle.html), ERPNext will automatically
+If you are shipping Items that have a [Product Bundle](/docs/user/manual/en/selling/setup/product-bundle.html), Revalue ERP will automatically
 create a “Packing List” table for you based on the sub-Items in that Item.
 
 If your Items are serialized, then for Product Bundle type of Items, you will have
@@ -38,7 +38,7 @@ go to:
 
 > Stock > Packing Slip > New Packing Slip
 
-You can create multiple Packing Slips for your Delivery Note and ERPNext will
+You can create multiple Packing Slips for your Delivery Note and Revalue ERP will
 ensure that the quantities in the Packing Slip do not exceed the quantities in
 the Delivery Note.
 

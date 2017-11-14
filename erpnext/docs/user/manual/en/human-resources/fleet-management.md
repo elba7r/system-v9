@@ -2,7 +2,7 @@
 
 Fleet Management section of Human Resources helps your Organization manage their fleet of vehicles and track their expenses.
 
-To use Fleet Management in ERPNext,
+To use Fleet Management in Revalue ERP,
 
   1. Set Up a Vehicle.
   2. Enter Vehicle Logs regularly.

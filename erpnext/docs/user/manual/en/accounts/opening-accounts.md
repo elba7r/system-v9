@@ -1,14 +1,14 @@
 #Updating Opening Balance in Accounts
 
-If you are a new company you can start using ERPNext accounting module by going to chart of accounts. However, if you are migrating from a legacy accounting system like Tally or a Fox Pro based software
+If you are a new company you can start using Revalue ERP accounting module by going to chart of accounts. However, if you are migrating from a legacy accounting system like Tally or a Fox Pro based software
 
-We recommend that you start using accounting in a new financial year, but you could start midway too. To setup your accounts, you will need the following for the “day” you start using accounting in ERPNext:
+We recommend that you start using accounting in a new financial year, but you could start midway too. To setup your accounts, you will need the following for the “day” you start using accounting in Revalue ERP:
 
 * Opening capital accounts - like your shareholder’s (or owner’) capital, loans, bank balances on that day.
 
 * List of outstanding sales and purchase invoices (Payables and Receivables).
 
-If you were using another accounting software before, firstly you should close financial statements in that software. The closing balance of the accounts should be updated as an opening balance in the ERPNext. Before starting to update opening balance, ensure that your [Chart of Accounts](/docs/user/manual/en/accounts/chart-of-accounts.html) has all the Accounts required.
+If you were using another accounting software before, firstly you should close financial statements in that software. The closing balance of the accounts should be updated as an opening balance in the Revalue ERP. Before starting to update opening balance, ensure that your [Chart of Accounts](/docs/user/manual/en/accounts/chart-of-accounts.html) has all the Accounts required.
 
 > Opening entry is only for Balance Sheet accounts and not for the Accounts in the Profit and Loss statement.
 

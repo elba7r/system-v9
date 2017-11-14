@@ -1,6 +1,6 @@
 # Batch
 
-Batch feature in ERPNext allows you to group multiple units of an item,
+Batch feature in Revalue ERP allows you to group multiple units of an item,
 and assign them a unique value/number/tag called Batch No.
 
 This is done based on the Item. If the Item is batched, then a Batch number must be mentioned in every stock transaction. Batch numbers can be maintained manually or automatically

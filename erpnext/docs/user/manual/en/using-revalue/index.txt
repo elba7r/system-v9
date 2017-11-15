@@ -1,6 +1,4 @@
 to-do
-restore-deleted-docs
-document-versioning
 collaborating-around-forms
 chat
 notes

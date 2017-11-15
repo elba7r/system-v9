@@ -1,5 +1,3 @@
-# Open Source
-
 The source code is an Open Source software. It is open for anyone to
 understand, extend or improve. And it is free!
 
@@ -17,7 +15,7 @@ Advantages of an Open Source software are:
 
 Revalue ERP source repository is hosted at GitHub and can be found here
 
-- [https://github.com/elba7r/system-v9](https://github.com/elba7r/system-v9)
+- [https://github.com/elba7r/system](https://github.com/elba7r/system)
 
 
 ---

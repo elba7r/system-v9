@@ -1,5 +1,3 @@
-# Generate Item Code Based On Custom Logic
-
 Add this in the Custom Script of **Item**, so that the new Item Code is
 generated just before the a new Item is saved.
 

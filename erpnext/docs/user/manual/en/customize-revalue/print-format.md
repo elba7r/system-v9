@@ -1,5 +1,3 @@
-# Print Format
-
 Print Formats are the layouts that are generated when you want to Print or
 Email a transaction like a Sales Invoice. There are two types of Print
 Formats,
@@ -18,7 +16,7 @@ To create your own versions, open an existing template from:
 
 `Setup > Printing > Print Formats`
 
-<img alt="Print Format" class="screenshot" src="/docs/assets/img/customize/print-format.png">
+<img alt="Print Format" class="screenshot" src="{{docs_base_url}}/assets/img/customize/print-format.png">
 
 Select the type of Print Format you want to edit and click on the “Copy”
 button on the right column. A new Print Format will open up with “Is Standard”
@@ -27,7 +25,7 @@ set as “No” and you can edit the Print Format.
 Editing a Print Format is a long discussion and you will have to know a bit of
 HTML, CSS, Python to learn this. For help, please post on our forum.
 
-Print Formats are rendered on the server side using the [Jinja Templating Language](http://jinja.pocoo.org/docs/templates/). All forms have access to the doc object which contains information about the document that is being formatted. You can also access common utilities via the Revalue module.
+Print Formats are rendered on the server side using the [Jinja Templating Language](http://jinja.pocoo.org/docs/templates/). All forms have access to the doc object which contains information about the document that is being formatted. You can also access common utilities via the frappe module.
 
 For styling, the [Bootstrap CSS Framework](http://getbootstrap.com/) is provided and you can enjoy the full range of classes.
 
@@ -45,7 +43,7 @@ To edit / update your print and PDF settings, go to:
 
 `Setup > Printing and Branding > Print Settings`
 
-<img alt="Print Format" class="screenshot" src="/docs/assets/img/customize/print-settings.png">
+<img alt="Print Format" class="screenshot" src="{{docs_base_url}}/assets/img/customize/print-settings.png">
 
 #### Example
 

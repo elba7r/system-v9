@@ -32,6 +32,6 @@ Image](http://revaluesoft.com)
 
 ### 4\. Install Revalue ERP on your Unix/Linux/Mac machine
 
-If you are familiar with installing applications on *nix platforms, read the instructions on how to install using [Revalue Bench](https://github.com/elba7r/platform-v9).
+If you are familiar with installing applications on *nix platforms, read the instructions on how to install using [Revalue ERP Bench](https://github.com/elba7r/platform-v9).
 
 {next}

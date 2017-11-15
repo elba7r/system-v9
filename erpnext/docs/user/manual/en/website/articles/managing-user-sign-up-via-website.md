@@ -1,8 +1,8 @@
-#Customer / Supplier Signup
+#Managing User Sign Up via Website
 
-Your Customer and Suppliers can signup to your Revalue ERP account by following Signup option on the Login Page.
+Users can sign up for Revalue ERP account via the Revalue ERP Website.
 
-<img class="screenshot" alt="Website User Signup" src="/docs/assets/img/website/website-login.png">
+<img src="{{docs_base_url}}/assets/img/website/website-login.png">
 
 As seen above the login / sign-up button appears on the homepage of the website generated using Revalue ERP.
 

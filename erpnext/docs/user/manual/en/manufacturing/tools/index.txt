@@ -1,2 +1,2 @@
 production-planning-tool
-bom-update-tool
+bom-replace-tool

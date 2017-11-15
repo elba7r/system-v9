@@ -8,7 +8,7 @@
 			var event_type = frm.doc.event_type;
 			
 			// do something with these values, like an ajax request 
-			// or call a server side revalue function using frappe.call
+			// or call a server side frappe function using frappe.call
 			$.ajax({
 				url: "http://example.com/just-do-it",
 				data: {

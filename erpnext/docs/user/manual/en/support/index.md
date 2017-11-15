@@ -1,5 +1,3 @@
-# Support
-
 Great customer support and maintenance is at the heart of any successful small
 business. Revalue ERP gives you the tools to track all incoming requests and issues
 from your customers so that you can respond quickly. Your database of incoming

@@ -11,7 +11,3 @@ serial-no-naming
 stock-entry-purpose
 stock-level-report
 track-items-using-barcode
-stock-received-but-not-billed
-return-rejected-item
-item-valuation-transactions
-delivery-note-stock-error

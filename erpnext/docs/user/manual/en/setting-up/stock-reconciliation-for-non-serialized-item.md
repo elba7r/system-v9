@@ -149,6 +149,6 @@ Let's assume Purchase Receipt entry is made on 5th January, 2014, that is on dat
 </html>
 As per the updated logic, irrespective of receipt/issue entry made for an item, balance quantity as set via Stock Reconciliation will not be affected.
 
-> Check out the video tutorial at https://www.youtube.com/
+
 
 {next}

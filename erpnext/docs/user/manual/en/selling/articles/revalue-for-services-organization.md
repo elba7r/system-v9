@@ -38,8 +38,6 @@ Within the form, there are many fields only needed for companies into trading an
 
 Revalue ERP is the permission controlled system. Users access system based on permissions assigned to them. So, if user is not assigned Role related to Stock and Manufacturing module, it will be hidden from that User. [Click here to learn more about permission management.](/docs/user/manual/en/setting-up/users-and-permissions.html).
 
-You can also refer to help video on User and Permissions setting in Revalue ERP.
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
 
 <!-- markdown -->

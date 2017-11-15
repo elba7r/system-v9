@@ -107,10 +107,6 @@ to save your file encoded as UTF-8. For older versions of Excel, there is no
 clear way of saving as UTF-8. So save your file as a CSV, then open it in
 Notepad, and save as “UTF-8”. (Sorry blame Microsoft for this!)
 
-####Help Video on Importing Data in Revalue ERP from Spreadsheet file
 
-
-
-<iframe width="660" height="371" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
 
 {next}

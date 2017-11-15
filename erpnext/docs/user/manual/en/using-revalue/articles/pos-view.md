@@ -8,4 +8,4 @@ Using POS View, you can only create Sales Invoice, without switching to standard
 
 For creating POS Invoice, check following help video.
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/zU8YXEc_fJo" frameborder="0" allowfullscreen></iframe>

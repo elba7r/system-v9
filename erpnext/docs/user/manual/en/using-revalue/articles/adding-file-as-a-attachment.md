@@ -30,7 +30,7 @@ To ensure there are not many files attached to a document, which can affect your
 
 Check following link to learn how files are managed in Revalue ERP.
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/wxs-aVQSFM8" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- markdown -->

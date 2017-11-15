@@ -39,6 +39,6 @@ valuation purpose when you receive the finished Item in your stock.
 
 ### Video Help
 
-<iframe width="660" height="371" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/_vgONrkLtFY" frameborder="0" allowfullscreen></iframe>
 
 {next}

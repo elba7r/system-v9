@@ -8,18 +8,18 @@ $(document).bind('toolbar_setup', function() {
 	frappe.app.name = "ERPNext";
 
 	frappe.help_feedback_link = '<p><a class="text-muted" \
-		href="https://discuss.erpnext.com">Feedback</a></p>'
+		href="http://revaluesoft.com">Feedback</a></p>'
 
 
 	$('.navbar-home').html('<img class="erpnext-icon" src="'+
 			frappe.urllib.get_base_url()+'/assets/erpnext/images/erp-icon.svg" />');
 
-	$('[data-link="docs"]').attr("href", "https://frappe.github.io/erpnext/")
-	$('[data-link="issues"]').attr("href", "https://github.com/frappe/erpnext/issues")
+	$('[data-link="docs"]').attr("href", "http://revaluesoft.com")
+	$('[data-link="issues"]').attr("href", "http://revaluesoft.com")
 
 
 	// default documentation goes to erpnext
-	// $('[data-link-type="documentation"]').attr('data-path', '/erpnext/manual/index');
+	$('[data-link-type="documentation"]').attr('data-path', '/erpnext/manual/index');
 
 	// additional help links for erpnext
 	var $help_menu = $('.dropdown-help ul .documentation-links');

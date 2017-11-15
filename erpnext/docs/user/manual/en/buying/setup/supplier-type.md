@@ -1,5 +1,3 @@
-# Supplier Type
-
 A supplier may be distinguished from a contractor or subcontractor, who
 commonly adds specialized input to deliverables. A supplier is also known as a
 vendor. There are different types of suppliers based on their goods and
@@ -16,7 +14,7 @@ You can create your own category of Supplier Type.
 
 > Buying > Setup > Supplier Type > New Supplier Type
 
-<img class="screenshot" alt="Supplier Type" src="/docs/assets/img/buying/supplier-type.png">
+<img class="screenshot" alt="Supplier Type" src="{{docs_base_url}}/assets/img/buying/supplier-type.png">
 
 You can classify your suppliers from a range of choice available in Revalue ERP.
 Choose from a set of given options like Distributor, Electrical,Hardware,
@@ -26,3 +24,5 @@ Classifying your supplier into different types facilitates accounting and
 payments.
 
 Type your new supplier category and Save.
+
+{next}

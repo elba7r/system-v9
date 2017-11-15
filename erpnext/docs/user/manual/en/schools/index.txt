@@ -1,7 +1,5 @@
 student
 admission
-Attendance
 schedule
 fees
 setup
-Assessment

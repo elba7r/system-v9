@@ -1,5 +1,3 @@
-# Sales Invoice
-
 A Sales Invoice is a bill that you send to your customers, against which the customer processes the payment. Sales Invoice is an accounting transaction. On submission of Sales Invoice,  the system updates the receivable and books income against a Customer Account.
 
 You can create a Sales Invoice directly from
@@ -8,7 +6,7 @@ You can create a Sales Invoice directly from
 
 or you can Make a new Sales Invoice after you submit the Delivery Note.
 
-<img class="screenshot" alt="Sales Invoice" src="/docs/assets/img/accounts/sales-invoice.png">
+<img class="screenshot" alt="Sales Invoice" src="{{docs_base_url}}/assets/img/accounts/sales-invoice.png">
 
 #### Accounting Impact
 
@@ -53,7 +51,7 @@ monthly, quarterly, half-yearly or annual basis, you can check the “Recurring
 Invoice” box. Here you can fill in the details of how frequently you want to
 bill this Invoice and the period for which the contract is valid.
 
-Revalue ERP will automatically create new Invoices and mail it to the Email Addresses
+Revalue ERP will automatically create new Invoices and mail it to the email ids
 you set.
 
 #### POS Invoices
@@ -64,7 +62,7 @@ into the Sales Invoice and you can easily make payments.
 Also, if you check the **Update Stock** the stock will also update automatically,
 without the need of a Delivery Note.
 
-<img class="screenshot" alt="POS Invoice" src="/docs/assets/img/accounts/pos-sales-invoice.png">
+<img class="screenshot" alt="POS Invoice" src="{{docs_base_url}}/assets/img/accounts/pos-sales-invoice.png">
 
 #### Billing Timesheet with Project
 
@@ -73,7 +71,7 @@ they can fill out Timesheets which consists their billing rate. When you make a 
 Sales Invoice, select the Project for which the billing is to be made, and the
 corresponding Timesheet entries for that Project will be fetched.
 
-<img class="screenshot" alt="POS Invoice" src="/docs/assets/img/accounts/billing-timesheet-sales-invoice.png">
+<img class="screenshot" alt="POS Invoice" src="{{docs_base_url}}/assets/img/accounts/billing-timesheet-sales-invoice.png">
 
 * * *
 
@@ -90,5 +88,5 @@ not ideal as your Customer may or may not decide to pay up. But since your
 Customer wants an “Invoice”, you could give the Customer a Quotation (in
 Revalue ERP) titled as “Pro Forma Invoice”. This way everyone is happy.
 
-This is a fairly common practice. We follow this at Frappé too.
+This is a fairly common practice. We follow this at Revalue ERP too.
 {next}

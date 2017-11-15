@@ -1,7 +1,6 @@
 change-password
 delete-a-company-and-all-related-transactions
 edit-submitted-document
-calculate-incentive-for-sales-team
 integrating-revalue-with-other-application
 manage-header-and-footer
 managing-multiple-companies
@@ -11,8 +10,3 @@ naming-series-current-value
 overwriting-data-from-data-import-tool
 rename-user
 using-custom-domain-on-revalue
-setup-two-factor-authentication
-difference-between-system-user-and-website-user
-outgoing-email-gateway
-print-format-sections
-email-error

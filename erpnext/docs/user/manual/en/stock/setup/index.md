@@ -1,5 +1,3 @@
-# Setup
-
 ### Topics
 
 {index}

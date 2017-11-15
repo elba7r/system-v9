@@ -1,5 +1,3 @@
-# Sales Invoice Id Based On Sales Order Id
-
 Below script allows you to get naming series in Sales Invoice, same as of corresponding Sales Order.
 Invoice uses a prefix M- but the number duplicates the SO doc name (number).
 

@@ -10,3 +10,4 @@ human-resources
 customer-portal
 using-revalue
 customize-revalue
+schools

@@ -7,7 +7,7 @@ To create a Student Admission record  go to :
 **Schools** >> **Admissions** >> **Student Admission** >>
 
 
-<img class="screenshot" alt="Student Applicant" src="/docs/assets/img/schools/admission/student-admission.gif">
+<img class="screenshot" alt="Student Applicant" src="{{docs_base_url}}/docs/assets/img/schools/admission/student-admission.gif">
 
 Once an admission record is created, the age eligibility criteria can be determined for the every program. Similarly, you can also determine the application fee and naming series for every student applicant. If you keep the naming series blank then the default naming series will be applied for every student applicant.
 
